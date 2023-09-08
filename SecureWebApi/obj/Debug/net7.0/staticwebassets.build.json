@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gwy0gknxBT9D9ABHdjbdHT1b6yHODXZIhwY5EC7wYbo=",
+  "Source": "SecureWebApi",
+  "BasePath": "_content/SecureWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
